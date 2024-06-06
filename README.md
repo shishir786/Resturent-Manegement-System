@@ -3,10 +3,26 @@
 University project using C# Form with .net 4.7 and SQL server <br>
 A restaurant management system is basically a software toolbox that helps run a restaurant more smoothly. It tackles a variety of tasks, from taking orders and keeping tabs staff’s details and analyzing sales data. A restaurant management system can be a lifesaver for any restaurant owner, especially for new businesses. With the restaurant management system owner can trac all sells details, manage employee, see customer details and food items availability and also can add or remove items. With the system employees can take order in a smooth way and can take eye on food items availability. A restaurant management system is a way to automate a bunch of tedious tasks so you can focus on what really matters: keeping customers happy and restaurant profitable.<br> <br>
 For using initial system : <br>
-![image](https://github.com/shishir786/resturent_manegement_system/assets/112066110/5eaae2c7-3933-4268-8c25-782666335d53)
+
+<table border="1">
+    <tr>
+        <th>User</th>
+        <th>Id</th>
+        <th>Pssword</th>
+    </tr>
+    <tr>
+        <td>Manager</td>
+        <td>ds</td>
+        <td>786</td>
+    </tr>
+    <tr>
+        <td>Saller</td>
+        <td>a</td>
+        <td>001</td>
+    </tr>
+</table>
 
 <br>
-
 
 ![image](https://github.com/shishir786/resturent_manegement_system/assets/112066110/87e74fb1-7738-4906-9508-23eb3e846687)
 <br><br>Owner view:<br>
