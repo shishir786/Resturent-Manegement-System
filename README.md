@@ -4,22 +4,58 @@
 A brief description of what this project does and who it's for
 
 A restaurant management system is basically a software toolbox that helps run a restaurant more smoothly. It tackles a variety of tasks, from taking orders and keeping tabs staff’s details and analyzing sales data. A restaurant management system can be a lifesaver for any restaurant owner, especially for new businesses. With the restaurant management system owner can trac all sells details, manage employee, see customer details and food items availability and also can add or remove items. With the system employees can take order in a smooth way and can take eye on food items availability. A restaurant management system is a way to automate a bunch of tedious tasks so you can focus on what really matters: keeping customers happy and restaurant profitable.
-## Authors
+
+# Authors
 
 - [@shishir786](https://www.github.com/shishir786)
 
 
-## Features
-
-- Admin Perspective: 
-As an admin, this restaurant management system’s desktop dashboard allows admin to oversee and manage all aspects of restaurant operations. This includes monitoring employee details, managing employee accounts, and accessing their information. Also, can manage food items, track sells, and get informed about customers.
-
-
-- Seller Perspective: 
-As a seller, this restaurant management system’s desktop application with a user- friendly interface for efficiently managing food items , create order and billings. 
+# Features
+### Log In
+### Sign Up
 
 
-## For using initial system :
+
+### Admin Dashboard
+
+Centralized platform for overseeing and managing all restaurant operations.
+
+- **Employee Management**: 
+  - Monitor employee details
+  - Manage employee accounts and access their information
+
+- **Food Item Management**: 
+  - Add, update, or remove food items from the menu
+  - Set prices and manage stock levels
+
+- **Sales Tracking**: 
+  - Track sales and revenue
+  - Monitor performance of food items and sales trends
+
+- **Customer Information**: 
+  - Access customer details
+  - Get informed about customer preferences and feedback
+
+
+### Seller Dashboard
+
+As a seller, this restaurant management system’s desktop application provides a user-friendly interface for:
+
+- **Managing Food Items**: 
+  - Add, update, or remove food items from the menu
+  - Set prices and manage stock levels
+
+- **Creating Orders**: 
+  - Easily create new customer orders
+  - Modify existing orders as needed
+
+- **Handling Billings**: 
+  - Generate and manage customer invoices
+  - Track payment status and manage billing history
+
+
+
+# For using initial system 
 <table border="1">
     <tr>
         <th>User</th>
@@ -32,14 +68,14 @@ As a seller, this restaurant management system’s desktop application with a us
         <td>786</td>
     </tr>
     <tr>
-        <td>Saller</td>
+        <td>Seller</td>
         <td>a</td>
         <td>001</td>
     </tr>
 </table>
 
 
-## Screenshots
+# Screenshots
 
 
 
