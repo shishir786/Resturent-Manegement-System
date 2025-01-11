@@ -92,8 +92,6 @@ Build the solution in Visual Studio to compile the project. Make sure there are 
 6. **Run the Application**:
 Press **F5** or click on **Start** to run the application. This will launch the desktop application where you can start managing your restaurant operations.
 
-### Default Login Credentials
-For initial setup, the following credentials can be used:
 
 ## Default Credentials for Testing
 
